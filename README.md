@@ -69,7 +69,7 @@ Before you begin, make sure you have:
 ```bash
 # Check the chipset (look for MediaTek or other)
 adb shell getprop ro.board.platform
-
+```
 
 
 
@@ -116,6 +116,6 @@ Contributions are what make open source awesome! 🎉
 ---
 
 <p align="center">
-  ⭐ If this project helped you, please give it a star! ⭐<br>
+  ⭐ If this project helped you, please give it a star! ⭐<br />
   Made with ❤️ @Andrewtuff
 </p>
